@@ -1,0 +1,4 @@
+[[language]]
+name = "markdown"
+language-server = { command = "zk", args = ["lsp"] }
+# language-server = { command = "marksman" }

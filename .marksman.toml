@@ -1,0 +1,9 @@
+# https://github.com/artempyanykh/marksman/blob/main/Tests/default.marksman.toml
+
+[completion]
+# The style of wiki links completion.
+# Other values include: 
+# * "file-stem" to complete using file name without an extension,
+# * "file-path-stem" same as above but using wil path.
+# wiki.style = "title-slug"
+wiki.style = "file-path-stem"
